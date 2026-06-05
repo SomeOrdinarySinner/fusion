@@ -1,0 +1,14 @@
+[
+  {
+    "id": "7289b859-f0bc-4892-8324-5bd8cdeffb02",
+    "title": "Warner Bros. Pictures",
+    "videoURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/animated%20covers/studios/warner%20bros.mp4",
+    "backgroundURL": "https://i.postimg.cc/65B5yJLY/warner-bros.png"
+  },
+  {
+    "id": "4c9f2f63-c3ca-4748-80e5-894964b9d846",
+    "title": "YOUR_VIDEO_TITLE",
+    "videoURL": "YOUR_RAW_GITHUB_VIDEO_URL",
+    "backgroundURL": "YOUR_BACKGROUND_IMAGE_URL"
+  }
+]
