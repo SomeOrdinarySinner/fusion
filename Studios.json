@@ -1,4 +1,4 @@
-[
+[FB1A9901-E045-436A-92CF-1E1DBC50B6BF
   {
     "id": "13CEBC6C-0446-4FE3-86C0-5C30BB7DF858",
     "title": "Blumhouse",
@@ -16,5 +16,11 @@
     "title": "Legendary",
     "videoURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion/main/Legendary.mp4",
     "backgroundURL": "https://i.postimg.cc/T1cpzWYZ/legendary.png"
+  },
+  {
+    "id": "FB1A9901-E045-436A-92CF-1E1DBC50B6BF",
+    "title": "DC Studios",
+    "videoURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion/main/DC.mp4",
+    "backgroundURL": "https://i.postimg.cc/vZKBHz5Y/DC-Studios-logo.webp"
    }
 ]
